@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "doc": {
+      "properties": {
+        "type": { "type": "keyword" }, 
+        "name": { "type": "text" },
+        "user_name": { "type": "keyword" },
+        "email": { "type": "keyword" },
+        "content": { "type": "text" },
+        "tweeted_at": { "type": "date" }
+      }
+    }
+  }
+}

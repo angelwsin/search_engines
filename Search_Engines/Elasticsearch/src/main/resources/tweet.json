@@ -1,0 +1,6 @@
+{
+  "type": "tweet", 
+  "user_name": "kimchy",
+  "tweeted_at": "2017-10-24T09:00:00Z",
+  "content": "Types are going away"
+}
